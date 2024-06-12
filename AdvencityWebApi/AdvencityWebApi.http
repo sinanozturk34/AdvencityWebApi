@@ -1,0 +1,6 @@
+@AdvencityWebApi_HostAddress = http://localhost:5051
+
+GET {{AdvencityWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
